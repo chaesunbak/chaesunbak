@@ -24,13 +24,4 @@ jobs:
     - name: Run Update Python Script
       run: |
         python update_readme.py
-    - name: Update README.md file
-      run: | 
-        git pull
-        git add .
-        git diff
-        git config --local user.email "coanstjd0422@gmail.com"
-        git config --local user.name "chaesunbak"
-        git commit -m "Update README.me"
-        git push
 

@@ -5,8 +5,8 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 README_FILE = "README.md"
 
-START_MARKER = ""
-END_MARKER = ""
+START_MARKER = "<!-- LATEST-BLOG-POST-LIST:START -->"
+END_MARKER = "<!-- LATEST-BLOG-POST-LIST:END -->"
 
 def update_readme_with_blog_posts():
     """README.md 파일에서 최신 블로그 포스트 목록을 업데이트합니다."""

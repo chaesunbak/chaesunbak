@@ -6,4 +6,6 @@
     height="120"
   />
 </a>
-  
+
+<!-- LATEST-BLOG-POST-LIST:START -->
+<!-- LATEST-BLOG-POST-LIST:END -->

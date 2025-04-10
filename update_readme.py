@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://chaesunbak.tistory.com/rss" 
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 7
+MAX_POST = 5
 README_FILE = "README.md"
 
 START_MARKER = "<!-- LATEST-BLOG-POST-LIST:START -->"

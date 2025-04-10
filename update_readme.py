@@ -31,7 +31,7 @@ def update_readme_with_blog_posts():
         print("Error: README.md 파일에서 올바른 주석 마커를 찾을 수 없습니다.")
         return
 
-    blog_posts_markdown = "### 최근 블로그 포스팅\n"  # 소제목 추가
+    blog_posts_markdown = "### 최근 블로그 포스팅\n"
     for idx, feed in enumerate(RSS_FEED['entries']):
         if idx >= MAX_POST:
             break

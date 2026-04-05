@@ -7,6 +7,13 @@
 </a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=300&size=18&pause=1000&color=ADB5DB&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%98%A4%EB%8A%98%EB%8F%84+%EC%A6%90%EA%B1%B0%EC%9A%B4+%EB%82%A0%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+
+- 🎓 [학점은행제 학점계산기](https://planner.chaesunbak.com/)
+- 🍕 [무료 피자 보내기](https://pizza.chaesunbak.com/)
+- 🗺️ [인플루언서 맛지도](https://matzip.chaesunbak.com/)
+- 🤔 [음악 인기도 맞추기 게임](https://spoti-guessr.chaesunbak.com/)
+
+
 <!-- LATEST-BLOG-POST-LIST:START -->
 ### 최근 블로그 포스팅
 [2026/03/17 - NCP Object Storage CORS 에러 해결법](https://chaesunbak.tistory.com/42) <br/>

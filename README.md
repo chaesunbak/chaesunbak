@@ -10,9 +10,7 @@
 
 - 🎓 [학점은행제 학점계산기](https://planner.chaesunbak.com/)
 - ㄴ 📕 [스토리북](https://storybook.planner.chaesunbak.com/)
-- 🍕 [무료 피자 보내기](https://pizza.chaesunbak.com/)
-- 🗺️ [인플루언서 맛지도](https://matzip.chaesunbak.com/)
-- 🤔 [음악 인기도 맞추기 게임](https://spoti-guessr.chaesunbak.com/)
+
 
 
 <!-- LATEST-BLOG-POST-LIST:START -->

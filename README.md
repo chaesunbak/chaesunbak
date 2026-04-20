@@ -15,9 +15,9 @@
 
 <!-- LATEST-BLOG-POST-LIST:START -->
 ### 최근 블로그 포스팅
+[2026/04/20 - 딸깍으로 내 서비스 UX 라이팅 개선하기](https://chaesunbak.tistory.com/45) <br/>
+[2026/04/20 - AWS Certified Developer - Associate(DVA-C02) 취득 후기](https://chaesunbak.tistory.com/44) <br/>
 [2026/04/09 - 사파리 Clipboard API NotAllowedError](https://chaesunbak.tistory.com/43) <br/>
 [2026/03/17 - NCP Object Storage CORS 에러 해결법](https://chaesunbak.tistory.com/42) <br/>
 [2026/02/12 - 사용자 경험을 데이터로 증명하세요 : UTMate 회고](https://chaesunbak.tistory.com/39) <br/>
-[2026/01/26 - 타입스크립트 개발자들이 enum을 싫어하는 이유](https://chaesunbak.tistory.com/38) <br/>
-[2026/01/04 - 터미널에서 ls 명령어를 치면 무슨 일이 일어날까?](https://chaesunbak.tistory.com/36) <br/>
 <!-- LATEST-BLOG-POST-LIST:END -->

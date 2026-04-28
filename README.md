@@ -15,9 +15,9 @@
 
 <!-- LATEST-BLOG-POST-LIST:START -->
 ### 최근 블로그 포스팅
-[2026/04/20 - 딸깍으로 내 서비스 UX 라이팅 개선하기](https://chaesunbak.tistory.com/45) <br/>
-[2026/04/20 - AWS Certified Developer - Associate(DVA-C02) 취득 후기](https://chaesunbak.tistory.com/44) <br/>
-[2026/04/09 - 사파리 Clipboard API NotAllowedError](https://chaesunbak.tistory.com/43) <br/>
-[2026/03/17 - NCP Object Storage CORS 에러 해결법](https://chaesunbak.tistory.com/42) <br/>
-[2026/02/12 - 사용자 경험을 데이터로 증명하세요 : UTMate 회고](https://chaesunbak.tistory.com/39) <br/>
+[2026/04/21 - 딸깍으로 내 서비스 UX 라이팅 개선하기](https://blog.chaesunbak.com/ux-writing-skills) <br/>
+[2026/04/20 - AWS Certified Developer - Associate(DVA-C02) 취득 후기](https://blog.chaesunbak.com/aws-dva-co2) <br/>
+[2026/04/09 - 사파리 Clipboard API NotAllowedError](https://blog.chaesunbak.com/safari-clipboard-api-error) <br/>
+[2026/03/17 - NCP Object Storage CORS 에러 해결법](https://blog.chaesunbak.com/ncp-object-storage-cors) <br/>
+[2026/02/12 - 사용자 경험을 데이터로 증명하세요 : UTMate 회고](https://blog.chaesunbak.com/utmate-retrospect) <br/>
 <!-- LATEST-BLOG-POST-LIST:END -->

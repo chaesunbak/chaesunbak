@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://chaesunbak.tistory.com/rss"
+URL = "https://blog.chaesunbak.com/feed"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 README_FILE = "README.md"

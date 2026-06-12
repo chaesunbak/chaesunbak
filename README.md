@@ -10,7 +10,7 @@
 
 - 🎓 [학점은행제 학점계산기](https://planner.chaesunbak.com/)
 - ㄴ 📕 [스토리북](https://storybook.planner.chaesunbak.com/)
-
+- 👻 [한능검 기출봇](https://gichulbot.com/)
 
 
 <!-- LATEST-BLOG-POST-LIST:START -->
